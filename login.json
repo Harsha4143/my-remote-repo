@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"name":"John", "age":30, "car":null}
+=======
+{"name":"John", "age":25, "car":null}
+>>>>>>> f5418a6757f0555cbc8487a5e6b3cd931520f25f

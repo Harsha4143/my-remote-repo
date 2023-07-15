@@ -1,8 +1,15 @@
 this is testing
 
+<<<<<<< HEAD
 changed in master=
 changed in shared branch
 
 Same edit again
 new
 nxt
+=======
+changed in master
+edited in Vi
+changed in shared branch
+
+>>>>>>> f5418a6757f0555cbc8487a5e6b3cd931520f25f
