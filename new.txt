@@ -1,1 +1,6 @@
 this is testing
+
+changed in master
+edited in Vi
+changed in shared branch
+
