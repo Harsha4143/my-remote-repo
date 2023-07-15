@@ -3,3 +3,5 @@ this is testing
 changed in master=
 changed in shared branch
 
+Same edit again
+new
